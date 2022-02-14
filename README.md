@@ -41,5 +41,5 @@ And now I know what they mean, you're a love machine Oh, you make me dizzy<br>
   
 </details>
 
-
+<img src="./Assets/moto-moto-madagascar.gif">
 
